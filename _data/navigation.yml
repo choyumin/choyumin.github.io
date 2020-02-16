@@ -7,7 +7,7 @@ main:
   - title: "Baekjoon"
     url: /baekjoon/
   - title: "Swea"
-  - url: /swea/
+    url: /swea/
   - title: "Java"
     url: /java/
   - title: "Project"
