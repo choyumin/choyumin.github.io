@@ -4,6 +4,10 @@ main:
     url: /category/
   - title: "Algorithm"
     url: /algorithm/
+  - title: "Baekjoon"
+    url: /baekjoon/
+  - title: "Swea"
+  - url: /swea/
   - title: "Java"
     url: /java/
   - title: "Project"
