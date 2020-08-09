@@ -8,6 +8,8 @@ main:
     url: /baekjoon/
   - title: "Swea"
     url: /swea/
+  - title: "Programmers"
+    url: /programmers/
   - title: "Java"
     url: /java/
   - title: "Project"
