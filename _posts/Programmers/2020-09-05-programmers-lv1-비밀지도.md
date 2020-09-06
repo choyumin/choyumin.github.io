@@ -1,11 +1,11 @@
 ---
 layout: single
-title: "[lv1] 다트게임"
+title: "[lv1] 비밀지도"
 comments: true
 category: Programmers
 ---
 
-## level1.  다트게임
+## level1.  비밀지도
 
 ---
 
