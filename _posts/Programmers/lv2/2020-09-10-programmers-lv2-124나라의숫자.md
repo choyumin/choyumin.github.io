@@ -1,11 +1,11 @@
 ---
 layout: single
-title: "[lv1] 124나라의숫자"
+title: "[lv2] 124나라의숫자"
 comments: true
 category: Programmers
 ---
 
-## level1.  124나라의숫자
+## level2.  124나라의숫자
 
 ---
 
